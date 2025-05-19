@@ -8,8 +8,8 @@ export default function Education() {
             </div>
             <h4 className={styles.school} data-aos="fade-up">Alex Ekwueme Federal University, Ebonyi, Nigeria</h4>
             <div className={styles.year} data-aos="fade-up">
-                <h5>B.Sc. Criminology & Security studies.</h5>
-                <h5>2018 - 2022</h5>
+                <p>B.Sc. Criminology & Security studies.</p>
+                <p>2018 - 2022</p>
             </div>
         </>
     )
