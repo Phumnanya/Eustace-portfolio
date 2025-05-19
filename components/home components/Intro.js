@@ -11,9 +11,9 @@ export default function Intro() {
                     <h1>Eustace Mbanefo</h1>
                     <h2>Software Engineer</h2>
                     <br></br>
-                    <h5>Hello! I'm a full-stack engineer specialized in developing responsive, and scalable
+                    <p>Hello! I'm a full-stack engineer specialized in developing responsive, and scalable
                     web applications and software for businesses, schools, organizations, and any other institutions.
-                    </h5>
+                    </p>
                     <button type="button" className={styles.hire}>
                     <a href="mailto:eustace364@gmail.com" >
                     <FontAwesomeIcon icon={faEnvelope} size="2x" className={styles.faResume} /> Hire me</a>
