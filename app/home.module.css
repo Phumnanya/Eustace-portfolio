@@ -20,7 +20,7 @@
   color: inherit;
   border: none;
 }
-@media (max-width: 800px) {.bar {padding: 10px;}}
+@media (max-width: 800px) {.bar {padding: 5px;}}
 .mediaLinks {
   width: fit-content;
   display: inline-block;
@@ -32,7 +32,7 @@
   color: inherit;
   border: none;
 }
-@media (max-width: 800px) {.mediaLinks {padding: 0px; margin: 8px;}}
+@media (max-width: 800px) {.mediaLinks {padding: 0px; margin: 5px;}}
 .faSocials {
   height: 30px;
   width: 30px;
