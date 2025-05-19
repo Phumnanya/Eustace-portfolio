@@ -20,7 +20,7 @@ export default function Socials() {
         <a href="https://x.com/PhumiClyde?t=9Rm_q0SVp0ysp64oMuGLHw&s=09"><FontAwesomeIcon icon={faXTwitter} size="2x" className={styles.faSocials} /></a>
         </button>
         <button type="button" className={styles.mediaLinks}>
-        <a href="https//github.com/Phumnanya"><FontAwesomeIcon icon={faGithub} size="2x" className={styles.faSocials} /></a>
+        <a href="https://github.com/Phumnanya"><FontAwesomeIcon icon={faGithub} size="2x" className={styles.faSocials} /></a>
         </button>
         <button type="button" className={styles.mediaLinks}>
             <a href="https://www.facebook.com/profile.php?id=100007975694965">
