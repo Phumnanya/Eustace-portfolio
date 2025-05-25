@@ -19,7 +19,7 @@ export default function Intro() {
                     <FontAwesomeIcon icon={faEnvelope} size="2x" className={styles.faResume} /> Hire me</a>
                     </button>
                     <button type="button" className={styles.resume}>
-                    <a href="/Eustace Resume.pdf" download>
+                    <a href="/Eustace_Resume.pdf" download>
                     <FontAwesomeIcon icon={faFileLines} size="2x" className={styles.faResume} /> Resume</a>
                     </button>
                 </div>
