@@ -27,9 +27,7 @@ export default function Experience() {
                  <div className={styles.role} data-aos="fade-up"> 
                      <h4>Web Developer intern - Sync interns</h4> 
                      <h5>September 2024 - October 2024</h5> 
-                     <p>Collaborated on real-world projects with senior professional developers, sharpened my 
-                     frontend development skills, and contributed to scalable solutions in a highly rated 
-                     e-learning tech company.</p> 
+                     <p>Developed web applications using HTML, CSS, and JavaScript and gained hands-on experience in frontend development,while learning best practices in web development</p> 
                  </div>
             </div>
         </>
