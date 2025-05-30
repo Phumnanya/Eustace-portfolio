@@ -23,6 +23,14 @@ export default function Experience() {
                     frontend development skills, and contributed to scalable solutions in a highly rated
                     e-learning tech company.</p>
                 </div>
+                <br></br> 
+                 <div className={styles.role} data-aos="fade-up"> 
+                     <h4>Web Developer intern - Sync interns</h4> 
+                     <h5>September 2024 - October 2024</h5> 
+                     <p>Collaborated on real-world projects with senior professional developers, sharpened my 
+                     frontend development skills, and contributed to scalable solutions in a highly rated 
+                     e-learning tech company.</p> 
+                 </div>
             </div>
         </>
     )
