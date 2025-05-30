@@ -16,6 +16,12 @@ export default function Experience() {
                     tech environment.</p>
                 </div>
                 <br></br>
+<div className={styles.role} data-aos="fade-up"> 
+                     <h4>Web Developer intern - Sync interns</h4> 
+                     <h5>September 2023 - October 2023</h5> 
+                     <p>Developed web applications using HTML, CSS, and JavaScript and gained hands-on experience in frontend development,while learning best practices of web development</p> 
+                 </div>
+<br></br>
                 <div className={styles.role} data-aos="fade-up">
                     <h4>Frontend Developer intern - Flexisaf Edusoft limited</h4>
                     <h5>May 2025 - August 2025</h5>
@@ -23,12 +29,6 @@ export default function Experience() {
                     frontend development skills, and contributed to scalable solutions in a highly rated
                     e-learning tech company.</p>
                 </div>
-                <br></br> 
-                 <div className={styles.role} data-aos="fade-up"> 
-                     <h4>Web Developer intern - Sync interns</h4> 
-                     <h5>September 2024 - October 2024</h5> 
-                     <p>Developed web applications using HTML, CSS, and JavaScript and gained hands-on experience in frontend development,while learning best practices in web development</p> 
-                 </div>
             </div>
         </>
     )
