@@ -24,7 +24,7 @@ export default function Experience() {
 <br></br>
                 <div className={styles.role} data-aos="fade-up">
                     <h4>Frontend Developer intern - Flexisaf Edusoft limited</h4>
-                    <h5>May 2025 - August 2025</h5>
+                    <h5>May 2025 - Present</h5>
                     <p>Collaborated on real-world projects with senior professional developers, sharpened my
                     frontend development skills, and contributed to scalable solutions in a highly rated
                     e-learning tech company.</p>
