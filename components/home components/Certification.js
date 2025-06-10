@@ -28,7 +28,7 @@ export default function Certification() {
                     <img src="recommendation.png" alt="recommendations" />
                 </figure>
                 </a>
-                <h5>Sync interns recommendation</h5>
+                <h5>Recommend</h5>
             </div>
         </>
     )
