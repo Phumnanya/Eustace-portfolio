@@ -22,6 +22,17 @@ export default function Splidecarousel() {
         >
             <SplideSlide>
                 <div className={styles.project}>
+                <a href="https://minify-ecru.vercel.app">
+                    <img src="minify.png" alt="minify store" />
+                    <br></br>
+                    <h4>Minify store</h4>
+                    <p>Mini e-commerce website built with React, Zustand, react-query, and tailwindCSS. With functional abilities for users 
+            to click and add items to cart and checkout </p>
+                     </a>
+                </div>
+            </SplideSlide>
+            <SplideSlide>
+                <div className={styles.project}>
                 <a href="https://learnexa.netlify.app">
                     <img src="Learnexa.png" alt="learnexa" />
                     <br></br>
@@ -83,6 +94,16 @@ export default function Splidecarousel() {
                     <h4>Quiz app</h4>
                     <p>single page quiz app with questions and options and score assessment at the end of it.
                      built with simple html5, CSS, and javascript.</p>
+                     </a>
+                </div>
+            </SplideSlide>
+            <SplideSlide>
+                <div className={styles.project}>
+                <a href="https://croix-stores.netlify.app">
+                    <img src="Croix stores and 9 more pages - Personal - Microsoft​ Edge 7_11_2025 9_03_06 PM.png" alt="croix stores" />
+                    <br></br>
+                    <h4>Croix stores</h4>
+                    <p>Responsive single page e-commerce website built with html, CSS and javascript.</p>
                      </a>
                 </div>
             </SplideSlide>
