@@ -35,9 +35,9 @@ export default function Splidecarousel() {
             <SplideSlide>
                 <div className={styles.project}>
                 <a href="https://hanover-health.vercel.app">
-                    <img src="hanover-desktop.png" alt="hanover" />
+                    <img src="hanover_desktop.png" alt="hanover" />
                     <br></br>
-                    <h4>Hanover communicable diseases tracker</h4>
+                    <h4>Communicable diseases tracker</h4>
                     <p>communicable diseases tracker built with react, using real-time data of number reported cases of 
                     different diseases with a graphical and tabular representation of the data for each country. 
                       Data source is from WHO data API </p>
@@ -123,4 +123,5 @@ export default function Splidecarousel() {
         </Splide>
     );
 }
+
 
