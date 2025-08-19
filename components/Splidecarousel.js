@@ -26,8 +26,21 @@ export default function Splidecarousel() {
                     <img src="minify.png" alt="minify store" />
                     <br></br>
                     <h4>Minify store</h4>
-                    <p>Mini e-commerce website built with React, Zustand, react-query, and tailwindCSS. With functional abilities for users 
+                    <p>Mini e-commerce website built with React,and tailwindCSS. API integration with react-query,
+            library and zustand for state management. functional abilities for users, to add items to cart and checkout.
             to click and add items to cart and checkout </p>
+                     </a>
+                </div>
+            </SplideSlide>
+            <SplideSlide>
+                <div className={styles.project}>
+                <a href="https://hanover-health.vercel.app">
+                    <img src="hanover-desktop.png" alt="hanover" />
+                    <br></br>
+                    <h4>Hanover communicable diseases tracker</h4>
+                    <p>communicable diseases tracker built with react, using real-time data of number reported cases of 
+                    different diseases with a graphical and tabular representation of the data for each country. 
+                      Data source is from WHO data API </p>
                      </a>
                 </div>
             </SplideSlide>
@@ -110,3 +123,4 @@ export default function Splidecarousel() {
         </Splide>
     );
 }
+
