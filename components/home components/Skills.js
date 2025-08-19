@@ -6,7 +6,7 @@ export default function Skills() {
             <div className={styles.skillsheader} data-aos="fade-up">
                 <h3>Skills</h3>
             </div>
-            <p className={styles.skillsintro} data-aos="fade-up">I have valuable experience in building responsive User interface
+            <p className={styles.skillsintro} data-aos="fade-up">I have 2+ years experience in building responsive User interface
              functional and scalable backend systems for any field or institution. Below is a quick overview 
              of my main technical skill sets and technologies I am well versed on.</p>
 {/* second flex item <img src="icons8-2.png" alt="skills icon" className={styles.skillsimage} />*/}
@@ -18,6 +18,10 @@ export default function Skills() {
                 <div className={styles.skills}>
                     <img src="css.png" alt="css icon" />
                     <h4>CSS</h4>
+                </div>
+                <div className={styles.skills}>
+                    <img src="tailwind.png" alt="tailwind icon" />
+                    <h4>Tailwind CSS</h4>
                 </div>
                 <div className={styles.skills}>
                     <img src="bootstrap.png" alt="bootstrap icon" />
@@ -42,4 +46,5 @@ export default function Skills() {
             </div>
         </>
     )
+
 }
