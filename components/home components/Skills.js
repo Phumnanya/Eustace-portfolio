@@ -32,6 +32,10 @@ export default function Skills() {
                     <h4>Javascript</h4>
                 </div>
                 <div className={styles.skills}>
+                    <img src="typescript.png" alt="typescript icon" />
+                    <h4>Typescript</h4>
+                </div>
+                <div className={styles.skills}>
                     <img src="react.png" alt="react icon" />
                     <h4>React.js</h4>
                 </div>
@@ -48,3 +52,4 @@ export default function Skills() {
     )
 
 }
+
