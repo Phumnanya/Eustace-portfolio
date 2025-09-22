@@ -9,10 +9,10 @@ export default function Intro() {
             <section>
                 <div className={styles.introduction}>
                     <h1>Eustace Mbanefo</h1>
-                    <h2>Software Engineer</h2>
+                    <h2>Frontend Developer</h2>
                     <br></br>
-                    <p>Hello! I'm a full-stack engineer specialized in developing responsive, and scalable
-                    web applications and software for businesses, schools, organizations, and any other institutions.
+                    <p>Hello! I'm a frontend developer specialized in building responsive, and scalable
+                    web applications and software for businesses, schools, cooperate organizations, and any other institutions.
                     </p>
                     <button type="button" className={styles.hire}>
                     <a href="mailto:eustace364@gmail.com" >
