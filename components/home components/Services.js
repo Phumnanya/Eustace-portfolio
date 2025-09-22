@@ -19,14 +19,14 @@ export default function Services() {
                         <h4>Backend Development</h4>
                         <div className="progress">
                         <div className={`progress-bar progress-bar-striped progress-bar-animated 
-                        ${styles.color}`} style={{width:`${70}%`}}></div>
+                        ${styles.color}`} style={{width:`${60}%`}}></div>
                         </div>
                     </div>
                     <div className={styles.service} data-aos="fade-up">
                         <h4>Graphics Design</h4>
                         <div className="progress">
                         <div className={`progress-bar progress-bar-striped progress-bar-animated 
-                        ${styles.color}`} style={{width:`${80}%`}}></div>
+                        ${styles.color}`} style={{width:`${70}%`}}></div>
                         </div>
                     </div>
                 </div>
