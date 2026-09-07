@@ -14,6 +14,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
     "@fortawesome/react-fontawesome": "^0.2.2",
     "@splidejs/react-splide": "^0.7.12",
+    "@vercel/analytics": "^2.0.1",
     "aos": "^2.3.4",
     "bootstrap": "^5.3.6",
     "next": "^15.5.21",

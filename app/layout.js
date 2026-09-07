@@ -2,6 +2,7 @@ import './globals.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import AOSProvider from '@/components/AOSProvider';
 import '@splidejs/react-splide/css';
+import { Analytics } from "@vercel/analytics/next"
 
 export const metadata = {
   title: "Eustace Mbanefo",
@@ -17,6 +18,7 @@ export default function RootLayout({ children }) {
       <body style={{fontFamily: "Arial, Helvetica, sans-serif; color:black;"}}>
       <AOSProvider />
         {children}
+        <Analytics />
       </body>
     </html>
   );
