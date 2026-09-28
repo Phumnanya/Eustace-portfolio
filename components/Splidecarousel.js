@@ -78,7 +78,7 @@ export default function Splidecarousel() {
             <SplideSlide>
                 <div className={styles.project}>
                 <a href="https://biccas-mocha.vercel.app/">
-                    <img src=".png" alt="Biccas" />
+                    <img src="Biccas.png" alt="Biccas" />
                     <br></br>
                     <h4>Biccas landing page</h4>
                     <p>Built a responsive web interface from a Figma design using Next.js, TypeScript, and Tailwind CSS, with a focus on clean UI and reusable components.</p>
@@ -88,7 +88,7 @@ export default function Splidecarousel() {
             <SplideSlide>
                 <div className={styles.project}>
                 <a href="https://krea-self.vercel.app/">
-                    <img src=".png" alt="krea" />
+                    <img src="Krea.png" alt="krea" />
                     <br></br>
                     <h4>Krea landing page</h4>
                     <p>A recreation of the Krea AI interface built from a Figma/design reference using Next.js, TypeScript, and Tailwind CSS. The project focuses on translating 
