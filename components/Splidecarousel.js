@@ -26,9 +26,8 @@ export default function Splidecarousel() {
                     <img src="minify.png" alt="minify store" />
                     <br></br>
                     <h4>Minify store</h4>
-                    <p>Mini e-commerce website built with React,and tailwindCSS. API integration with react-query,
-            library and zustand for state management. functional abilities for users, to add items to cart and checkout.
-            to click and add items to cart and checkout </p>
+                    <p>Minify is a full-stack e-commerce web application featuring a React frontend and a Flask backend, with integrated real-time 
+            payment processing via Paystack. </p>
                      </a>
                 </div>
             </SplideSlide>
@@ -38,20 +37,30 @@ export default function Splidecarousel() {
                     <img src="hanover_desktop.png" alt="hanover" />
                     <br></br>
                     <h4>Hanover diseases tracker</h4>
-                    <p>communicable diseases tracker built with react, using real-time data of number reported cases of 
-                    different diseases with a graphical and tabular representation of the data for each country. 
-                      Data source is from WHO data API </p>
+                    <p>Hanover Healthcare is a public-health information and data-visualization application focused on communicable diseases. 
+                The project uses a two-part architecture: World Health Organization (WHO) GHO … </p>
                      </a>
                 </div>
             </SplideSlide>
             <SplideSlide>
                 <div className={styles.project}>
-                <a href="https://learnexa.netlify.app">
-                    <img src="Learnexa.png" alt="learnexa" />
+                <a href="https://sunny-blond.vercel.app/">
+                    <img src="Sunny.png" alt="sunny" />
                     <br></br>
-                    <h4>Learnexa</h4>
-                    <p>A design of an e-learning platform with a login/sign up page and a user dashboard.
-                     Built with html5, CSS, javascript, Python and flask framework.</p>
+                    <h4>ffmpeg WASM media processor</h4>
+                    <p>A browser-based video compression and format conversion tool built with React, TypeScript, and ffmpeg.wasm. 
+                All processing happens entirely client-side </p>
+                     </a>
+                </div>
+            </SplideSlide>
+            <SplideSlide>
+                <div className={styles.project}>
+                <a href="https://scheduler-one-beta.vercel.app/">
+                    <img src="Production-scheduler.png" alt="Production-scheduler" />
+                    <br></br>
+                    <h4>Production-scheduler</h4>
+                    <p>A full-stack production scheduling application built to help manufacturing 
+                teams organize production orders, allocate resources, prevent scheduling conflicts, and visualize production performance through dashboards and analytics..</p>
                      </a>
                 </div>
             </SplideSlide>
@@ -68,13 +77,23 @@ export default function Splidecarousel() {
             </SplideSlide>
             <SplideSlide>
                 <div className={styles.project}>
-                <a href="https://weather-app-two-kappa-68.vercel.app">
-                    <img src="weather app p1.png" alt="weather app" />
+                <a href="https://biccas-mocha.vercel.app/">
+                    <img src=".png" alt="Biccas" />
                     <br></br>
-                    <h4>Weather App</h4>
-                    <p>A functional weather app with integration of openweather api for realtime weather 
-                    updates. Built with React</p>
-                    </a>
+                    <h4>Biccas landing page</h4>
+                    <p>Built a responsive web interface from a Figma design using Next.js, TypeScript, and Tailwind CSS, with a focus on clean UI and reusable components.</p>
+                     </a>
+                </div>
+            </SplideSlide>
+            <SplideSlide>
+                <div className={styles.project}>
+                <a href="https://learnexa.netlify.app">
+                    <img src="Learnexa.png" alt="learnexa" />
+                    <br></br>
+                    <h4>Learnexa</h4>
+                    <p>A design of an e-learning platform with a login/sign up page and a user dashboard.
+                     Built with html5, CSS, javascript, Python and flask framework.</p>
+                     </a>
                 </div>
             </SplideSlide>
             <SplideSlide>
@@ -97,6 +116,17 @@ export default function Splidecarousel() {
                     <p>Redesign and replication of the home page of the official website of Rakuten stores.
                      Built with html5, CSS, and bootstrap</p>
                      </a>
+                </div>
+            </SplideSlide>
+            <SplideSlide>
+                <div className={styles.project}>
+                <a href="https://weather-app-two-kappa-68.vercel.app">
+                    <img src="weather app p1.png" alt="weather app" />
+                    <br></br>
+                    <h4>Weather App</h4>
+                    <p>A functional weather app with integration of openweather api for realtime weather 
+                    updates. Built with React</p>
+                    </a>
                 </div>
             </SplideSlide>
             <SplideSlide>
