@@ -87,6 +87,17 @@ export default function Splidecarousel() {
             </SplideSlide>
             <SplideSlide>
                 <div className={styles.project}>
+                <a href="https://krea-self.vercel.app/">
+                    <img src=".png" alt="krea" />
+                    <br></br>
+                    <h4>Krea landing page</h4>
+                    <p>A recreation of the Krea AI interface built from a Figma/design reference using Next.js, TypeScript, and Tailwind CSS. The project focuses on translating 
+                    the original visual design into a responsive web interface while implementing reusable React components, responsive layouts, dark/light mode, and an interactive content carousel.</p>
+                     </a>
+                </div>
+            </SplideSlide>
+            <SplideSlide>
+                <div className={styles.project}>
                 <a href="https://learnexa.netlify.app">
                     <img src="Learnexa.png" alt="learnexa" />
                     <br></br>
